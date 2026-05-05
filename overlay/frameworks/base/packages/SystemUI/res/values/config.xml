@@ -30,5 +30,8 @@
     <string name="config_rounded_mask" translatable="false">
         M0,50V0H50A50,50 0,0 0,0 50Z
     </string>
+
+    <!-- StatusBar burn-in protection -->
+    <bool name="config_statusBarBurnInProtection">true</bool>
 </resources>
 
